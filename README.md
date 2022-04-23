@@ -2,7 +2,7 @@
 
 ## 📃 Intro
 
-🎯 Goal: This is a dice game for two players.
+🎯 Intro: This is a dice game for two players.
 
 🎖 Feature: This website is completely responsive on all types of devices.
 
